@@ -1,0 +1,17 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+
+/* código omitido */
+
+
+:root {
+    --cor-de-fundo: #2775e9;
+    --branco: #3919ee;
+    --laranja: #EB9B00;
+    --azul-degrade: linear-gradient(97.54deg, #242a30 35.49%, #326589 165.37%);
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+ 
